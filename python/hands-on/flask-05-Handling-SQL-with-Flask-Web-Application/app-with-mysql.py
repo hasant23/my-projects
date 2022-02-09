@@ -33,7 +33,7 @@ INSERT INTO clarusway.users
 VALUES 
 	("Tuba", "tuba@amazon.com" ),
 	("Ethan", "ethan@micrasoft.com"),
-	("mostafa", "mostafa@facebook.com"),
+	("mustafa", "mostafa@facebook.com"),
     ("sait", "sait@tesla.com"),
     ("busra","busra@google");
 """
